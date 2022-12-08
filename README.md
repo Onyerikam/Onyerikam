@@ -1,7 +1,3 @@
 - 👋 Hi, I’m @Onyerikam
 - 👀 I’m interested in Web dev, app dev, and others
-- 🌱 I’m currently learning Php, react native and some others
 - 💞️ I’m looking to collaborate on real life projects and how to work with you guys
-- 📫 How to reach me:
-- andrespedrionyerikam@gmail.com
-- Or my youtube channel which I will post later
